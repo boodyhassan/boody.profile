@@ -1,0 +1,158 @@
+.a{
+padding-right:35%; 
+font-size: 50px !important;	
+font-family: Berlin Sans FB;
+
+	 }
+.aa{
+font-style: bold !important;
+font-size: 25px !important;
+margin-left: 5% !important;
+/*	text-shadow:1px 5px 8px black;
+*/	 }
+.bb{
+	background-color: #2C3E50;
+}
+.link{
+	height: 10% !important; 
+	width: 20%;
+
+}
+.b{
+padding-top: 10%;
+padding-bottom: 3% !important;
+	background-color: #1ABC9C;
+	text-align: center;
+
+}
+.h{
+	margin-top: 5%;
+	color: white;
+	font-size: 75px;
+/*	font-family: Stencil Std;
+*/}
+.hh{
+	color: white;
+	margin-top: 3%;
+	font-size: 23px;
+}
+/*hr{
+	display: inline-block;
+	color: white;
+	height: 10px !important;
+}*/
+.hhh{
+	color:  #2C3E50;
+	font-size: 60px;
+	font-family: Berlin Sans FB;
+}
+.sec{
+	text-align: center;
+/*	padding-bottom: 20% !important; 
+
+*/
+padding-top: 10% !important;
+}
+.imgg{
+	width: 90%;
+	height: 90%;
+	/*margin-bottom: 10%;*/
+	border-radius: 5%;
+}
+.hr2{
+/*	margin-left: 30%;*/
+ background-color:#2C3E50
+
+}
+hr{
+/*	background-color: #fff;
+*/	height: 5px !important;
+	width: 130px;
+	display: inline-block;
+}
+.hr1{
+	background-color: #fff;
+
+}
+.about{
+	text-align: center;
+}
+.pp{
+	color: white;
+	font-size: 20px;
+
+}
+.mar1{
+	
+	margin-left: 15%;
+	margin-top:3%;}
+.mar2{
+	
+	margin-right: 5%;
+	margin-top:3%;}
+	.hl{
+/*			margin-top: 1% ;
+*/	color: white;
+	font-size:50px;
+	font-family:Goudy Stout;
+	}
+	.b1{
+padding-top: 8% !important;
+padding-bottom: 3% !important;
+	background-color: #1ABC9C;
+	text-align: center;}
+	.bl{
+		padding: 1.5% 3% 1.5% 3% !important;
+		font-size: 20px;
+		border-radius: 5% !important;
+		margin-top: 2%;
+		border:2px solid white !important;
+	}
+	.form{
+		margin-top: 4% ;
+		width: 88%;
+padding-left: 15%;
+
+	}
+	.fcode{
+		border-top: none !important;
+		border-left: none !important;
+		border-right: none !important;
+		border-radius: 0% !important;
+		padding-bottom: 4% !important;
+		font-size: 22px !important;
+		font-style: bold !important;
+	padding-top: 4% !important;
+	}
+.send{
+	background-color: #1ABC9C;
+	border-color: #1ABC9C;
+	padding: 2% 4% 2% 4% !important;
+	margin-top:3%;
+	margin-left: -86%;
+	color: white;
+	border-radius: 8% !important;
+}
+.rr3r{
+	margin-top: 8%;
+color: white;
+	padding: 8% 8% 1% 10% !important;
+/*	padding-top: 8%;*/
+}
+.three{
+		background-color: #2C3E50;
+
+}
+.icon{
+	margin-right: 1% !important;
+	padding: 3% !important;
+	border:2px solid white !important;
+	border-radius: 50% !important;
+	font-size: 20px;
+}
+.end{padding: 2% 0% 0.5% 0% !important;
+	text-align: center;
+	background-color: #1C2733;
+	color: white;
+	font-size: 13px !important;
+}

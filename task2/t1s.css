@@ -1,0 +1,129 @@
+.a{
+	padding-right:  55% !important;
+	color: #B90000 !important;
+	padding-left:1%;
+
+}
+.h{
+	margin-top: 4.5% !important;
+	color: white;
+	background-image: url("light_bulb.jpg");
+	padding-bottom: 6%;
+		padding-top: 6%;
+		padding-left: 3%;
+
+}
+.p{
+font-size: 20px;
+}
+.hh{
+	font-size: 60px;
+}
+.but{
+	background-color: #FF980D;
+	border-radius: 10%;
+	color: white;
+	border-color:  #FF980D;
+	padding: 0.5%;
+
+
+}
+.pp{
+	font-size: 20px;
+	color: #9E9E9E;
+}.pppp{
+	font-size: 20px;
+	color: #9E9E9E;
+	margin-top: -2%;
+}
+.cc{
+	background-image: url('mung_beans.jpg');
+	padding:80px 20px 70px 20px;
+	text-align: center;
+	background-position:50% 50%; 
+	background-size: cover;
+	color: #fff;
+	font-weight: bold;
+	opacity: 0.99;
+
+}
+.cc:hover{
+	border:6px solid black;
+}
+.c2c:hover{
+	border:6px solid black;
+}.c1c:hover{
+	border:6px solid black;
+}
+.r{
+	border-color: black;
+	border-style: solid;
+}
+.c1c{
+	background-image: url('coffee_beans_1.jpg');
+	padding:80px 20px 70px 20px;
+	text-align: center;
+	background-size: cover;
+		color: #fff;
+	font-weight: bold;
+	opacity: 0.99;
+	background-position:50% 50%; 
+}.c2c{
+	background-image: url('grapes.jpg');
+	padding:80px 20px 70px 20px;
+	text-align: center;
+	background-size: cover;
+	color: #fff;
+	font-weight: bold;
+/*	opacity: 0.99;*/
+	background-position:50% 50%; 
+
+}
+.ha{
+	color: #FF4A4A;
+text-align: center;
+padding-top: 3%; 
+padding-bottom: 3%;
+}
+.d1d{
+padding-left: 128.5px;
+border-color:#C0C0C0;
+border-style: solid;
+}
+.but1t{
+	color: white;
+	background-color: #FF980D;
+/*border:1px solid #FF980D;*/
+	border-color:  #FF980D;
+
+}
+.red{
+	color: #F86F6B;
+}
+.shadow{
+	text-shadow:1px 5px 8px black; 
+	font-size: 40px; 
+}
+.c1c1{
+	padding:3%;
+}
+.center{
+	text-align: center;
+	color: #FF8F59;
+}
+.bor{
+	height: 85%;
+	width: 100%;
+	border:1px solid #C0C0C0;
+}
+.ppp{
+text-align: center;
+	color: #9E9E9E;
+	margin-top: -2%;
+}
+.rrr{
+	margin-top: 5%;
+	margin-bottom: 2%;
+	padding: 3%;
+	background-color: #E4E4E4;
+}

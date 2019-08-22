@@ -1,0 +1,32 @@
+.x{
+	background: url("amr diab.jpg");
+	text-align: center;
+	color: #FFFF8C;
+	margin-top: 100px;
+background-size:cover;
+padding: 30px 30px 150px 30px; }
+.b{
+	background-color: #0080C0;
+	text-align: center;
+}
+.c
+{
+	background-color: #9C9323;
+	text-align: center;
+
+}
+.y{
+	margin-top: -100px;
+	margin-right:50px !important;
+	margin-left:50px !important;
+	/*adding: 20px 20px 20px 20px !important;*/
+	padding-top: 20px ;
+	
+}
+.n
+{
+	margin-top:200px;
+text-align: center;
+margin-bottom: 200px;
+
+}

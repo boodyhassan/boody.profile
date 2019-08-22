@@ -1,0 +1,64 @@
+.f{
+	background-image: url("he.jpg");
+	background-size: cover;
+}
+.d{
+	background:inherit !important;
+
+}
+.a{
+	color: #FF8000 !important;
+	font-family: French Script MT;
+	font-size: 30px !important;
+	padding-right: 60% !important;
+}
+.v{
+	text-align: center;
+	margin-top: 10%;
+	color: white !important;
+
+}
+.w{
+font-family: Matura MT Script Capitals;
+}
+.i{
+	font-family: /*Gill Sans Ultra Bold;*/Matura MT Script Capitals;
+	font-size: 120px;
+}
+.c{
+	background-color:#DD6F00;
+	border-color: #DD6F00;
+	font-family: Stencil Std;
+	padding: 20px 20px 20px 20px !important;
+	color: white;
+
+margin-bottom: 5%;
+}
+.g{
+	background-color:#C9A618;
+	color: white;
+	padding: 20px 20px 20px 20px;
+		margin-right:10px ;
+	border-radius: 50%
+
+}
+.h{
+	text-align: center;
+	margin-left: 3% !important;
+	margin-right: 3% !important;
+	padding:5%;
+}
+.u{
+	text-align: center !important;
+	padding-top: 5%;
+}
+/*.n{
+	overflow: none;
+}*/
+.j{
+padding: 20%;
+
+}
+.o{
+	list-style: inline !important; 
+}
